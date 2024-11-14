@@ -13,8 +13,8 @@
 }
 
 #disneylogo{
-    height: 10vh;
-    width: 300px;
+    height: 100%;
+    width: 100px;
     /*border: solid blue;*/
 }
 .logo{
